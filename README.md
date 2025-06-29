@@ -122,3 +122,4 @@ This **lexical analyzer** is a foundational example of how compilers break down 
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/1d57bc50-2275-4f51-bf1f-af702b86dcbe)
