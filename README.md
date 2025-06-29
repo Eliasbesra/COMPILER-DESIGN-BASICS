@@ -12,9 +12,8 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-# **Lexical Analyzer in C**
+# Lexical Analyzer in C
 
-## **Introduction**
 A **lexical analyzer** (also known as a **lexer** or **scanner**) is a fundamental component of a compiler that processes the source code of a program. Its primary task is to break down the input text into meaningful sequences called **tokens**, which are then passed to the subsequent phases of compilation (such as syntax analysis and semantic analysis). This program demonstrates a **simple lexical analyzer** written in **C** that identifies and categorizes **keywords, operators, and identifiers** from an input source file.
 
 ---
